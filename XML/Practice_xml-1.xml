@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombres>
+        <nombre-pila>Juan Camilo</nombre-pila>
+        <apellido>Espinel</apellido>
+    </nombres>
+    <edad>30</edad>
+    <correo>juancamilo@gmail.com</correo>
+</persona>
+<persona>
+    <nombres>
+        <nombre-pila>Pedro</nombre-pila>
+        <apellido>Barbosa</apellido>
+    </nombres>
+    <edad>25</edad>
+    <correo>perdonardo@gmail.com</correo>
+</persona>

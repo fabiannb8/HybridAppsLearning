@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="51" fecha="01-05-2017">
+  <cliente>
+    <nombre>Juan Perez</nombre>
+    <telefono>154684314</telefono>
+  </cliente>
+  <articulos>
+    <articulo id="2454">
+      <descripcion>Lorem ipsum dolor sit amet</descripcion>
+      <precio-unitario>15.257</precio-unitario>
+      <precio-final>12.255</precio-final>
+      <cantidad>58</cantidad>
+  </articulos>
+  <precio-total>27.854</precio-total>
+</factura>
